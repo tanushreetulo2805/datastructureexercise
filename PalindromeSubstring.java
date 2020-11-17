@@ -1,4 +1,4 @@
-/**
+/*
  * 
  * For given string, count how many palindromic substrings are in the string.
  * 
